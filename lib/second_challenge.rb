@@ -1,4 +1,9 @@
+require 'pry'
+
 def second_challenge
+  
+
+
   epic_tragedy = {
     :montague => {
       :patriarch => {},
@@ -14,6 +19,8 @@ def second_challenge
       :heroine_friends => []
       #your key/value pairs here!
       }}
+
+
 
 
 end
